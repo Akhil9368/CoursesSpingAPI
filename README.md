@@ -13,8 +13,8 @@ As this is the rest api which mean we can not se any interface but if we want to
 
 I've Implemented the CRUD opereation 
 <hr>
-Get all data  --> Method Get-->localhost:8080/courses
-Get single course by id --> Method Get ->localhost:8080/courses/{id}
-Update the course by id --> Method Put --> localhost:8080/courses/{id}
-Delete the course by id --> method Deleted --> localhost:8080/courses/{id}
+Get all data  --> Method Get-->localhost:8080/courses <br>
+Get single course by id --> Method Get ->localhost:8080/courses/{id} <br>
+Update the course by id --> Method Put --> localhost:8080/courses/{id} <br>
+Delete the course by id --> method Deleted --> localhost:8080/courses/{id} <br>
 Add the new Course -->Method Post --> localhost:8080/courses
