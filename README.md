@@ -1,6 +1,6 @@
 # CoursesSpingAPI
 
-#How to Run the Application
+# How to Run the Application
 As this is the rest api which mean we can not se any interface but if we want to check the workflow can be done by 2 ways either swagger or Postman. 
 
 1. Import the maven project in the local machine
@@ -9,7 +9,7 @@ As this is the rest api which mean we can not se any interface but if we want to
 4. Run as the java application
 5. server will start on 8080 port by default
 
-#Api which we can hit 
+# Api which we can hit 
 I've Implemented the CRUD opereation , 
 Get all data  --> Method Get-->localhost:8080/courses
 Get single course by id --> Method Get ->localhost:8080/courses/{id}
