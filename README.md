@@ -10,6 +10,7 @@ As this is the rest api which mean we can not se any interface but if we want to
 5. server will start on 8080 port by default
 
 # Api which we can hit 
+<hr>
 I've Implemented the CRUD opereation , 
 Get all data  --> Method Get-->localhost:8080/courses
 Get single course by id --> Method Get ->localhost:8080/courses/{id}
